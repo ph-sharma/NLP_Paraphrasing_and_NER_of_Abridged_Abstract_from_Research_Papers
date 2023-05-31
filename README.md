@@ -11,6 +11,7 @@ install nltk: pip install nltk
 install spacy: pip install spacy
 install PyPDF2(version < 3.0.0): pip install PyPDF2
 
+
 download spacy Model"en_core_web_sm" using terminal: python -m spacy download en_core_web_sm
 
 
