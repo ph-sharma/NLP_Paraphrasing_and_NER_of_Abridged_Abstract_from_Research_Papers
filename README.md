@@ -6,7 +6,7 @@ and named entity recognition (NER). Paraphrasing involves rewriting the text of 
 identifying and extracting named entities from text, such as people, organizations, and places. By combining these techniques,
 it is possible to create a concise and informative summary of a research paper that can be easily understood by a wide audience.
 
-##Required Libraries
+## Required Libraries
 install nltk: pip install nltk
 install spacy: pip install spacy
 install PyPDF2(version < 3.0.0): pip install PyPDF2
