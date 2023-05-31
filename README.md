@@ -16,7 +16,7 @@ download spacy Model"en_core_web_sm" using terminal: python -m spacy download en
 
 
 
-
+## Disclaimer
 I have used the research paper "Demographic Change and Economic Growth in India" by Neha Jain and Srinivas Goli
 I have used this for educational purpose and do not have any bad intent.
 
